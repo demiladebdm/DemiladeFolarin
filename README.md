@@ -16,11 +16,10 @@
       align="center"
       height="175"
       width="390"
-     src="https://github-readme-stats.vercel.app/api?username=demiladebdm&show_icons=true&locale=en&theme=merko"
+      src="https://github-readme-stats.vercel.app/api?username=demiladebdm&show_icons=true&locale=en&theme=merko"
       alt="daddydof"
     />
   </a>
-
    
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -31,13 +30,14 @@
       alt="daddydof"
     />
   </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       width="325"
       height="175"
       align="center"
-     src="https://github-readme-streak-stats.herokuapp.com/?user=demiladebdm&theme=merko"
-    alt="daddydof"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=demiladebdm&theme=merko"
+      alt="daddydof"
     />
   </a>
 </div>
